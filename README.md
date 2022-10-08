@@ -12,5 +12,5 @@
   - Flutter
  
 - Tecnologias em estudo no momento:
-  - PHP 7
+  - PHP
   - Laravel
