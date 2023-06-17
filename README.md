@@ -5,10 +5,11 @@
   - C++
   - Python
   - Java
-  - HTML + CSS
+  - HTML
+  - CSS
   - Javascript
   - Node.js
-  - React.js
+  - React
   - Flutter
  
 - Tecnologias em estudo no momento:
