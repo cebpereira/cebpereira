@@ -1,6 +1,6 @@
 Olá, sou Carlos Elandro, um entusiasta da tecnologia atualmente matriculado no curso de Sistemas de Informação na Universidade Estadual do Sudoeste da Bahia (UESB), campus Jequié. Minha jornada acadêmica tem sido marcada por uma busca constante por conhecimento e experiências práticas na área de desenvolvimento de software.
 
-Tenho como principal área de atuação o desenvolvimento Back-End utilizando PHP, Laravel, MySQL, PostgreSQL e Docker. Possuo também conhecimento em tecnologias Front-End como HTML, CSS, Javascript e breve contato com React. Além disto, possuo vivência com SCRUM, Jira, Trello, Git, Github e GitLab.
+Tenho como principal área de atuação o desenvolvimento Back-End utilizando PHP, Laravel, MySQL, PostgreSQL e Docker. Possuo também conhecimento em tecnologias Front-End como HTML, CSS, Tailwind CSS, Javascript, jQuery e Vue.js. Além disto, possuo vivência com SCRUM, Jira, Trello, Git, Github e GitLab.
 
 <div>
   <a href="https://github.com/cebpereira">
