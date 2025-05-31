@@ -1,6 +1,6 @@
 ## Sobre
 
-Desenvolvedor Back-End especializado em **PHP e Laravel**, com experiência em construção de APIs robustas e sistemas web escaláveis. Domino o ecossistema full-stack, incluindo JavaScript **(Vue.js, jQuery)** para front-end e bancos de dados relacionais **(MySQL, PostgreSQL, SQL Server)**.
+Desenvolvedor Back-End especializado em **PHP e Laravel**, com experiência em construção de APIs robustas e sistemas web escaláveis. Domino o ecossistema full-stack, incluindo JavaScript **(Vue.js, React, jQuery)** para front-end, bancos de dados relacionais **(MySQL, PostgreSQL, SQL Server)** e testes com **PHPUnit**.
 
 Atuo com **Docker** para conteinerização, **Git** para versionamento e metodologias ágeis **(Scrum)** no ciclo de desenvolvimento. Tenho sólida base em infraestrutura **(Linux, WSL)** e frameworks CSS modernos **(Tailwind CSS, Bootstrap)**.
 
