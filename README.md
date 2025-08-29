@@ -2,7 +2,7 @@
 
 Desenvolvedor Back-End especializado em **PHP e Laravel**, com experiência em construção de APIs robustas e sistemas web escaláveis. Domino o ecossistema full-stack, incluindo JavaScript **(Vue.js, React, jQuery)** para front-end, bancos de dados relacionais **(MySQL, PostgreSQL, SQL Server)** e testes com **PHPUnit**.
 
-Atuo com **Docker** para conteinerização, **Git** para versionamento e metodologias ágeis **(Scrum)** no ciclo de desenvolvimento. Tenho sólida base em infraestrutura **(Linux, WSL)** e frameworks CSS modernos **(Tailwind CSS, Bootstrap)**.
+Atuo com **Docker** para conteinerização, **Git** para versionamento e metodologias ágeis **(Scrum, Kanban)** no ciclo de desenvolvimento. Tenho sólida base em infraestrutura **(Linux, WSL)** e frameworks CSS modernos **(Tailwind CSS, Bootstrap)**.
 
 Em constante busca por desafios que exijam otimização de performance e arquiteturas limpas no ecossistema PHP.
 
@@ -25,12 +25,3 @@ Em constante busca por desafios que exijam otimização de performance e arquite
   <br />
 
   </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=cebpereira&row=1&column=6&theme=matrix&margin-w=15&margin-h=15"/>
-  </div>
-  
- 
- 
