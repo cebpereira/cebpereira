@@ -8,20 +8,21 @@ Em constante busca por desafios que exijam otimização de performance e arquite
 
 ##
 
-
   ![Status](./profile-3d-contrib/profile-night-green.svg)
-  
-
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cebpereira&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cebpereira&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
+##
 
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,typescript,html,css,react,vue,jquery,tailwind,bootstrap,docker,bash,vscode,eclipse,git,github,gitlab,linux,arch,debian,mint,ubuntu,postman,mysql,postgres,discord,linkedin,gmail,instagram" />
-</a>
-  <br />
+<div align="center" >
+  <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,typescript,html,css,react,vue,jquery,tailwind,bootstrap,docker,bash,vscode,eclipse,git,github,gitlab,linux,arch,debian,mint,ubuntu,postman,mysql,postgres,discord,linkedin,gmail,instagram" />
+  </a>
+</div>
 
-  </div>
+##
+
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=cebpereira&row=1&column=6&theme=matrix&margin-w=15&margin-h=15"/>
+</div>
