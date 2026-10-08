@@ -21,14 +21,8 @@ Em constante busca por desafios que exijam otimização de performance e arquite
   </a>
 </div>
 
-##
-
-<div align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=cebpereira&row=1&column=6&theme=matrix&margin-w=15&margin-h=15"/>
-</div>
-
 ## Contatos
 
  - **LinkedIn**: [Carlos Pereira](https://www.linkedin.com/in/cebpereira)
- - **Instagram**: [@c_elandro](https://www.instagram.com/c_elandro)
+ - **Portfólio**: [carloselandro](https://carloselandro.com.br)
  - **Email**: [c.elandro.bp@gmail.com](mailto:c.elandro.bp@gmail.com)
